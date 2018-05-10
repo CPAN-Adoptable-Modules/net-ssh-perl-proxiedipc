@@ -1,9 +1,8 @@
 package Net::SSH::Perl::ProxiedIPC;
 use strict;
 use warnings;
-use vars qw($VERSION);
 
-$VERSION = '0.021';
+our $VERSION = '0.022';
 
 =encoding utf8
 

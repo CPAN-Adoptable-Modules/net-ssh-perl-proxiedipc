@@ -71,16 +71,16 @@ the source repository:
 
 =over 4
 
-=item *	L<https://github.com/briandfoy/Net-SSH-Perl-ProxiedIPC>
+=item *	L<https://github.com/briandfoy/net-ssh-perl-proxiedipc>
 
 =back
 
-If you find a problem, file a ticket in the L<issue 
-tracker|https://github.com/briandfoy/Net-SSH-Perl-ProxiedIPC/issues>:
+If you find a problem, file a ticket in the L<issue
+tracker|https://github.com/briandfoy/net-ssh-perl-proxiedipc/issues>:
 
 =over 4
 
-=item *	L<https://github.com/briandfoy/Net-SSH-Perl-ProxiedIPC/issues>
+=item *	L<https://github.com/briandfoy/net-ssh-perl-proxiedipc/issues>
 
 =back
 

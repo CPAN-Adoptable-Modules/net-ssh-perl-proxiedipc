@@ -120,6 +120,12 @@ L<Net::SSH::Perl>
 
 Jennie Rose Evers-Corvina C<< <seven@nanabox.net> >>, Matthew S Trout
 
+=head1 SOURCE AVAILABILITY
+
+This project is in GitHub:
+
+	https://github.com/briandfoy/net-ssh-perl-proxiedipc
+
 =head1 COPYRIGHT
 
 =head1 LICENSE
